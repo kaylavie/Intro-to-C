@@ -23,7 +23,7 @@ int main()                                      // program entry point
         area = pi * radious * radius    // calculate area from radius
         printf("Area = %f\n", area);    
      
-        return 0;                               // transfering control back to operating system
+        return 0;                               // transferring control back to operating system
            
 }
 
